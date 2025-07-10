@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_Lambda_Var_Keyword/1_Lambda_Var_Keyword.iml" filepath="$PROJECT_DIR$/1_Lambda_Var_Keyword/1_Lambda_Var_Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Run_without_Compile/2_Run_without_Compile.iml" filepath="$PROJECT_DIR$/2_Run_without_Compile/2_Run_without_Compile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_String_Methods_Java11/3_String_Methods_Java11.iml" filepath="$PROJECT_DIR$/3_String_Methods_Java11/3_String_Methods_Java11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Files_utility_methods/4_Files_utility_methods.iml" filepath="$PROJECT_DIR$/4_Files_utility_methods/4_Files_utility_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_List_toArray_method/5_List_toArray_method.iml" filepath="$PROJECT_DIR$/5_List_toArray_method/5_List_toArray_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_Not_Predicate/6_Not_Predicate.iml" filepath="$PROJECT_DIR$/6_Not_Predicate/6_Not_Predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/H_Java_Java11_features.iml" filepath="$PROJECT_DIR$/.idea/H_Java_Java11_features.iml" />
+    </modules>
+  </component>
+</project>
